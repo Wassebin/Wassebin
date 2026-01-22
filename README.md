@@ -1,23 +1,38 @@
-## Hi there, happy to see you 😄, I'm Zhibin Wang
-I love everything that is cool✨.
+<h1 align="center">
+  Hi there, happy to see you 😄 <br/>
+  I'm Zhibin Wang
+</h1>
 
-Now I'm currently learning on Autonomous, Robotics and Machine Learning. And I am happy to share with you my tiny projects.
+<p align="center">
+  I love everything that is cool ✨
+</p>
 
-My personal website:https://zhibin-wang.github.io/
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wassebin)
+<p align="center">
+  Autonomous Driving · Robotics · Machine Learning
+</p>
 
+<p align="center">
+  🌐 <a href="https://zhibin-wang.github.io/">https://zhibin-wang.github.io/</a>
+</p>
 
-<!--
-**Wassebin/Wassebin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<table>
+<tr>
+<td width="55%">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👋 About Me
+
+- 🔭 Currently learning **Autonomous Systems, Robotics and ML**
+- 🤖 Interested in **SLAM, Perception, Embodied AI**
+- 🚀 Enjoy building **small but real systems**
+- 📂 Sharing my tiny projects here on GitHub
+
+</td>
+<td width="45%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Wassebin&show_icons=true&theme=default" />
+
+</td>
+</tr>
+</table>
