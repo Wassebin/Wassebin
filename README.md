@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there, happy to see you 😄, I'm Zhibin Wang
+I love everything that is cool✨.
+
+Now I'm currently learning on Autonomous, Robotics and Machine Learning. And I am happy to share with you my tiny projects.
+
+My personal website:https://zhibin-wang.github.io/
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wassebin)
+
 
 <!--
 **Wassebin/Wassebin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
